@@ -1,0 +1,2 @@
+(this["webpackJsonpsodiq-assignment"]=this["webpackJsonpsodiq-assignment"]||[]).push([[67],{2126:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),s=t(332),i=Object(a.lazy)((function(){return t.e(53).then(t.bind(null,2083))}));n.default=function(){return l.a.createElement(s.a,{title:"Deployment"},l.a.createElement(a.Suspense,{fallback:null},l.a.createElement(i,null)))}}}]);
+//# sourceMappingURL=67.3bc7edee.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpsodiq-assignment"]=this["webpackJsonpsodiq-assignment"]||[]).push([[65],{2129:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),s=t(332),i=Object(a.lazy)((function(){return Promise.all([t.e(83),t.e(51)]).then(t.bind(null,2093))}));n.default=function(){return l.a.createElement(s.a,{title:"Authentication"},l.a.createElement(a.Suspense,{fallback:null},l.a.createElement(i,null)))}}}]);
+//# sourceMappingURL=65.674cbc0f.chunk.js.map
